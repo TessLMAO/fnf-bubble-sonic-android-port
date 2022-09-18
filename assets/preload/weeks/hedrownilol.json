@@ -1,0 +1,32 @@
+{
+	"storyName": "drowning, drowning, sinking, sinking",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bubbles",
+			"bubbles",
+			[
+				5,
+				20,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bubbles"
+}
