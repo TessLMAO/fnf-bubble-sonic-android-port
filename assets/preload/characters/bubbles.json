@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				381
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "taunt",
+			"loop": false,
+			"name": "haha"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bubbles",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bubbles",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 7.99999999999999
+}

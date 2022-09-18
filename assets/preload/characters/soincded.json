@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "deathfirst"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "confirm"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "dedloop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/soincded",
+	"position": [
+		150,
+		420
+	],
+	"healthicon": "soinc",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 7.99999999999999
+}
